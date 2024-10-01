@@ -10,6 +10,8 @@
 - 📫 How to reach me **bhavsarhardeepm@gmail.com**
 - ⚡ Fun fact **If I had to do it all over again, I probably wouldn’t…**
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhavsarhardeep&count_private=true&show_icons=true&include_all_commits=true" alt="Bhavsar Hardeep | Stats" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
 <a href="https://www.linkedin.com/in/hardeepbhavsar/" target="blank"> <img align="center" src="https://img.shields.io/badge/linkedin-0078D4?style=for-the-badge&logo=linked%20in%20code&logoColor=white" alt="Hardeep Bhavsar"/></a>
@@ -33,9 +35,9 @@
 
 </p>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavsarhardeep&show_icons=true&locale=en&layout=compact" alt="bhavsarhardeep" /></p> -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?&user=bhavsarhardeep"/>
-<!--   <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+  <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
 </div> -->
 
 
