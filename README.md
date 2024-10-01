@@ -11,9 +11,13 @@
 - ⚡ Fun fact **If I had to do it all over again, I probably wouldn’t…**
 
 
-</td><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%">
+ 
 ### 📊 Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhavsarhardeep&count_private=true&show_icons=true&include_all_commits=true" alt="Bhavsar Hardeep | Stats" />
+
+</td></tr></table>  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
