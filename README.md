@@ -2,6 +2,7 @@
 
 
 <h3 align="center">Aspiring software developer from India</h3>
+
 - 👋 Hi, I’m @bhavsarhardeep
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
