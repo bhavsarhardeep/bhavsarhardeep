@@ -29,6 +29,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?&user=bhavsarhardeep"/>
   <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
 </div>
+
+  <img alt="VS Code" src="https://img.shields.io/badge/in-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <!---
 bhavsarhardeep/bhavsarhardeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
