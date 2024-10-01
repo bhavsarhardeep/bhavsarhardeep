@@ -2,6 +2,7 @@
 
 
 <h3 align="center">Aspiring software developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavsarhardeep&label=Profile%20views&color=0e75b6&style=flat" alt="bhavsarhardeep" /> </p>
 
 - 👋 Hi, I’m @bhavsarhardeep
 - 👀 I’m interested in ...
@@ -10,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavsarhardeep&label=Profile%20views&color=0e75b6&style=flat" alt="bhavsarhardeep" /> </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?&user=bhavsarhardeep"/>
 <!---
 bhavsarhardeep/bhavsarhardeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
