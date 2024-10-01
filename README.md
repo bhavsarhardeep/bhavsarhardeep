@@ -9,7 +9,9 @@
 - 🌱 I’m currently learning ...
 - 📫 How to reach me bhavsarhardeepm@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- ⚡ Fun fact:
+
+ <h1>Technical Skills 🛠</h1>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavsarhardeep&show_icons=true&locale=en&layout=compact" alt="bhavsarhardeep" /></p> -->
 <div align="center">
