@@ -10,6 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavsarhardeep&label=Profile%20views&color=0e75b6&style=flat" alt="bhavsarhardeep" /> </p>
 <!---
 bhavsarhardeep/bhavsarhardeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
