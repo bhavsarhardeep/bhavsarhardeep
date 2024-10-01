@@ -10,7 +10,7 @@
 - ⚡ Fun fact **If I had to do it all over again, I probably wouldn’t…**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/hardeepbhavsar/" target="blank"> <img align="center" src="https://img.shields.io/badge/linkedin-0078D4?style=for-the-badge&logo=linked%20in%20code&logoColor=white"" alt="Hardeep Bhavsar" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/hardeepbhavsar/" target="blank"> <img align="center" src="https://img.shields.io/badge/linkedin-0078D4?style=for-the-badge&logo=linked%20in%20code&logoColor=white"" alt="Hardeep Bhavsar"/></a>
 
  <h1>Technical Skills 🛠</h1>
  <p align="center"> 
