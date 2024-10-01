@@ -11,9 +11,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?&user=bhavsarhardeep"/>
+
 <div align="center">
-<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?&user=bhavsarhardeep"/>
+  <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
 </div>
 <!---
 bhavsarhardeep/bhavsarhardeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
