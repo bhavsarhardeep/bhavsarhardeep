@@ -10,6 +10,8 @@
 - 📫 How to reach me **bhavsarhardeepm@gmail.com**
 - ⚡ Fun fact **If I had to do it all over again, I probably wouldn’t…**
 
+
+</td><td valign="top" width="50%">
 ### 📊 Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhavsarhardeep&count_private=true&show_icons=true&include_all_commits=true" alt="Bhavsar Hardeep | Stats" />
 
