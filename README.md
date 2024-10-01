@@ -6,7 +6,7 @@
 
 - 👨‍🎓I am Bhavsar Hardeep.<br/>
 - 🔭 I’m currently working on **Java Full Stack**
-- 📫 How to reach me **hmbhavsar95@gmail.com**
+- 📫 How to reach me **bhavsarhardeepm@gmail.com**
 - ⚡ Fun fact **If I had to do it all over again, I probably wouldn’t…**
 
 <h3 align="left">Connect with me:</h3>
