@@ -14,6 +14,7 @@
 <a href="https://www.linkedin.com/in/hardeepbhavsar/" target="blank"> <img align="center" src="https://img.shields.io/badge/linkedin-0078D4?style=for-the-badge&logo=linked%20in%20code&logoColor=white" alt="Hardeep Bhavsar"/></a>
 <a href="https://www.hackerrank.com/profile/bhavsarhardeepm" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-339933?style=for-the-badge&logo=in&logoColor=white" alt="Hardeep Mahesh Bhavsar"/></a>
 
+
 </p>
 
  <h1>Technical Skills 🛠</h1>
@@ -33,6 +34,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?&user=bhavsarhardeep"/>
   <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
 </div>
+    <img alt="leetcode" src="https://img.shields.io/badge/leetcode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=black" />
+
+
+
 
 <!---
 bhavsarhardeep/bhavsarhardeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
