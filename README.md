@@ -11,7 +11,7 @@
 - ⚡ Fun fact **If I had to do it all over again, I probably wouldn’t…**
 
 
-<table><tr><td valign="top" width="50%" align="center">
+<table align="center"><tr><td valign="top" width="50%">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavsarhardeep&show_icons=true&locale=en&layout=compact" alt="bhavsarhardeep" /></p>
 <td valign="top" width="50%">
