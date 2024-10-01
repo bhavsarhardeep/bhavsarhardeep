@@ -3,6 +3,7 @@
 
 <h3 align="center">Aspiring Software Developer from India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhavsarhardeep&label=Profile%20views&color=0e75b6&style=flat" alt="bhavsarhardeep" /> </p>
+<br>
 
 - 👨‍🎓I am Bhavsar Hardeep.<br/>
 - 🔭 I’m currently working on **Java**
