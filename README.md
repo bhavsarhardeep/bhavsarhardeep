@@ -12,7 +12,6 @@
 - ⚡ Fun fact **If I had to do it all over again, I probably wouldn’t…**
 
 
-<h3 align="left"> My Sats So Far</h3>
 <table align="center"><tr><td valign="top" width="50%">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavsarhardeep&show_icons=true&locale=en&layout=compact" alt="bhavsarhardeep" /></p>
 <td valign="top" width="50%">
@@ -32,7 +31,7 @@
 </p>
 
  <h3>Technical Skills</h3>
- <p align="center"> 
+ <p align="left"> 
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
