@@ -38,9 +38,6 @@
   <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavsarhardeep&show_icons=true&locale=en&layout=compact" alt="Bhavsar Hardeep" /></p>
-
-
 
 <!---
 bhavsarhardeep/bhavsarhardeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
