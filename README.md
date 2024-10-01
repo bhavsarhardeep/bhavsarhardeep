@@ -12,7 +12,9 @@
 - ⚡ Fun fact: ...
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?&user=bhavsarhardeep"/>
+<div align="center">
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
+</div>
 <!---
 bhavsarhardeep/bhavsarhardeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
