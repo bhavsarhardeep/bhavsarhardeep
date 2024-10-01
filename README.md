@@ -1,4 +1,4 @@
-<h1 align="center">Hey there👋! I'm <a target="_blank" href="https://myportfolio2154.herokuapp.com/">Bhavsar Hardeep 🙋‍♂️</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1></h1>
+<h1 align="center">Hey there👋! I'm <a target="_blank" href="https://myportfolio2154.herokuapp.com/">Bhavsar Hardeep 🙋‍♂️</a></h1>
 
 
 <h3 align="center">Aspiring Software Developer from India</h3>
