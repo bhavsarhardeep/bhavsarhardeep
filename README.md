@@ -13,12 +13,13 @@
 
 <table><tr><td valign="top" width="50%">
  
- <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
  
 ### 📊 Github Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhavsarhardeep&count_private=true&show_icons=true&include_all_commits=true" alt="Bhavsar Hardeep | Stats" />
 
 </td></tr></table>  
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?&user=bhavsarhardeep"/>
 
 
 <h3 align="left">Connect with me:</h3>
