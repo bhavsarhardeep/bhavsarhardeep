@@ -1,7 +1,7 @@
 <h1 align="center">Hey there👋! I'm <a target="_blank" href="https://myportfolio2154.herokuapp.com/">Bhavsar Hardeep 🙋‍♂️</a></h1>
 
 
-<h3 align="center">Aspiring Software Developer from India</h3>
+<h3 align="center">Aspiring Software Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhavsarhardeep&label=Profile%20views&color=0e75b6&style=flat" alt="bhavsarhardeep" /> </p>
 
 
