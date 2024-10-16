@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me</h3>
 <p align="left"> 
 <a href="https://www.linkedin.com/in/hardeepbhavsar/" target="blank"> <img align="center" src="https://img.shields.io/badge/linkedin-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hardeep Bhavsar"/></a>
-<a href="https://www.hackerrank.com/profile/bhavsarhardeepm" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-339933?style=for-the-badge&logo=Hackerrank=white" alt="Hardeep Mahesh Bhavsar"/></a>
+<a href="https://www.hackerrank.com/profile/bhavsarhardeepm" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-339933?style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hardeep Mahesh Bhavsar"/></a>
 <a href="https://leetcode.com/u/hardeepbhavsar/" target="blank"><img align="center"src="https://img.shields.io/badge/leetcode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=black"
  " alt="hardeepbhavsar"/></a>
 <a href="https://www.instagram.com/itz._hardeep._/" target="blank"><img align="center"src="https://img.shields.io/badge/Instragram-FFFFFF?style=for-the-badge&logo=Instagram&logoColor=black"
