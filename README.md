@@ -26,7 +26,8 @@
 <a href="https://www.hackerrank.com/profile/bhavsarhardeepm" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-339933?style=for-the-badge&logo=in&logoColor=white" alt="Hardeep Mahesh Bhavsar"/></a>
 <a href="https://leetcode.com/u/hardeepbhavsar/" target="blank"><img align="center"src="https://img.shields.io/badge/leetcode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=black"
  " alt="hardeepbhavsar"/></a>
-
+<a href="https://www.instagram.com/itz._hardeep._/" target="blank"><img align="center"src="https://img.shields.io/badge/Instragram-FFFFFF?style=for-the-badge&logo=Instagram&logoColor=black"
+ " alt="itz._hardeep._"/></a>
 
 </p>
 
