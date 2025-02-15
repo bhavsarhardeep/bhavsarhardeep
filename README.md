@@ -16,7 +16,7 @@
 <tr><td valign="top" width="50%">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs??username=bhavsarhardeep&show_icons=true&locale=en&include_all_commits=true" alt="bhavsarhardeep" /></p>
 <td valign="top" width="50%">
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yashrajbothra&show_icons=true&count_private=true&hide_border=true" alt="Bhavsar Hardeep | Stats"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bhavsarhardeep&show_icons=true&count_private=true&hide_border=true" alt="Bhavsar Hardeep | Stats"/>
 </td></tr></table>  
 
 
