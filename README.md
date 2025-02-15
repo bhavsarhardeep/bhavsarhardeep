@@ -4,13 +4,15 @@
 <h3 align="center">Aspiring Software Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhavsarhardeep&label=Profile%20views&color=0e75b6&style=flat" alt="bhavsarhardeep" /> </p>
 
-<img align="right" alt="Coding" width="180" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="Coding" width="180" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
+<p align= centre>
 - 👨‍🎓I am Bhavsar Hardeep.
 - 🔭 I’m currently working on **Java**
 -  🌱 I’m currently learning **Fullstack Development**
 - 📫 How to reach me **bhavsarhardeepm@gmail.com**
 - ⚡ Fun fact **If I had to do it all over again, I probably wouldn’t…**
+</p>
 
 
 <table align="center">
