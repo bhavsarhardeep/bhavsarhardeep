@@ -45,7 +45,6 @@
   <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
-<hr>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavsarhardeep&show_icons=true&locale=en&layout=compact" alt="bhavsarhardeep" /></p>  -->
 <div align="center">
