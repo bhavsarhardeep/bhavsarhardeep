@@ -12,7 +12,8 @@
 - ⚡ Fun fact **If I had to do it all over again, I probably wouldn’t…**
 
 
-<table align="center"><tr><td valign="top" width="50%">
+<table align="center">
+<tr><td valign="top" width="50%">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs??username=bhavsarhardeep&show_icons=true&locale=en&include_all_commits=true" alt="bhavsarhardeep" /></p>
 <td valign="top" width="50%">
 <p align="center"> <img src="" alt="Bhavsar Hardeep | Stats"/>
