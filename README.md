@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Software Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhavsarhardeep&label=Profile%20views&color=0e75b6&style=flat" alt="bhavsarhardeep" /> </p>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 👨‍🎓I am Bhavsar Hardeep.
 - 🔭 I’m currently working on **Java**
