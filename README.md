@@ -6,13 +6,11 @@
 
 <!-- <img align="right" alt="Coding" width="180" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
-<p align= centre>
-- 👨‍🎓I am Bhavsar Hardeep.<br>
-- 🔭 I’m currently working on **Java**<br>
--  🌱 I’m currently learning **Fullstack Development**<br>
-- 📫 How to reach me **bhavsarhardeepm@gmail.com**<br>
-- ⚡ Fun fact **If I had to do it all over again, I probably wouldn’t…**<br>
-</p>
+- 👨‍🎓I am Bhavsar Hardeep.
+- 🔭 I’m currently working on **Java**
+-  🌱 I’m currently learning **Fullstack Development**
+- 📫 How to reach me **bhavsarhardeepm@gmail.com**
+- ⚡ Fun fact **If I had to do it all over again, I probably wouldn’t…**
 
 
 <table align="center">
