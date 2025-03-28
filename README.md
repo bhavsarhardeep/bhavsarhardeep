@@ -46,7 +46,7 @@
 </p>
 
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavsarhardeep&show_icons=true&locale=en&layout=compact" alt="bhavsarhardeep" /></p>  -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavsarhardeep&show_icons=true&locale=en&layout=compact" alt="bhavsarhardeep" /></p>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?&user=bhavsarhardeep"/>
 <!--   <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>  -->
